@@ -1,13 +1,3 @@
 # Learning how to automate my x86 development.
 
-Born from taking advantage of the turing problem, undecidability, godel's incompleteness theorem, deductive reasoning, proofs based math.
-While my understanding of those ideas aren't perfect, they have allowed me to create this program, viewing my already written assembly programs as "axioms".
-Through which, we apply ideas from the functional programming paradigm (problem decomposition).
-We can use the desired name of my assembly program as an input to the python script, then, that name points directly to an assembly program that will always give a terminal output if it is attempted to be ran (IF any usage of SYS_WRITE gives ANY output to the terminal at any time). 
-If there's no terminal output, then that's an issue with how I wrote the x86 assembly program itself (I need to show visible outcomes when due). How could I tell if it runs or not if I get no terminal output?
-Well, that's forcing me to debug my assembly programs better, and think of new ways to reconcile debugging issues I had before this program, and the debugging issues I had in the past.
-This program allows me to run Assembly programs faster, which in turn, forces me to debug them faster.
-We could give a function in a high level language any set of binary values, and the type attributed to it, and how the binary is treated in the function (which forces us to organize it), could be seen as similar to a sort of ISA, CPU Architecture, and an input to the hardware (the physical device my code is running on). 
-
-
-Ultimately, in the past, I was trying so hard to reconcile the the boundaries between hardware (CISC vs. RISC, FPGAs, Verilog, Sequential vs. Combinational circuits), and software (ISAs, procedural, object-oriented, functional, declarative). A simple introduction to philosophy course taught me to think "more beyond" the given problem, which has led to me understanding how to break barriers between ideas better. And now I've "automated" some of my x86 development, which I had been wanting to do for nearly two years at this point. I went from having to try and remember where to find the webpage that showed me how to assemble and link programs for Linux, to having muscle memory that allows me to write those same commands without needing to look at the webpage, to understanding the commands enough to know how to automate them in a way I need them to be, and that's besdies all of the time I spent writing the assembly code itself. In essence, I used my previous knowledge and creations as an input to my newer philosophical approach, which led me to solving more problems I had in the past than thinking in terms of the problems themselves, and I've gained new language to explore the software industry (as well as other industries) with. 
+Learning how to automate my x86-64 development. Python seems to be a very nice starting point, and is easy for me to use.
