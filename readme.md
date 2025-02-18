@@ -1,4 +1,4 @@
-#Learning how to automate my x86 development.
+# Learning how to automate my x86 development.
 
 Born from taking advantage of the turing problem, undecidability, godel's incompleteness theorem, deductive reasoning, proofs based math.
 While my understanding of those ideas aren't perfect, they have allowed me to create this program, viewing my already written assembly programs as "axioms".
